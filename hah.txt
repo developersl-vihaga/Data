@@ -1,0 +1,7 @@
+pip install pwntools requests colorama prettytable tqdm pdfkit jinja2
+sudo apt-get install nmap metasploit-framework wkhtmltopdf
+
+
+
+
+mkdir exploits shellcodes reports plugins
